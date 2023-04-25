@@ -9,7 +9,7 @@ If you'd like to contribute by adding a paper to the website, simply follow thes
 1. Fork this repository.
 2. In your forked repository, navigate to the `/public` directory.
 3. Open the `papers.js` file.
-4. Add a new  ***chronological*** entry to the `papers` array with the required information about the paper:
+4. Add a new  ***chronological*** entry to the `papers` array with the required properties about the paper:
     - `submitted`: The date the paper was submitted, as listed on arXiv.
     - `title`: The title of the paper on arXiv.
     - `link`: The paper's arXiv link.
