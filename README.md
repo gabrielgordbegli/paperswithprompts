@@ -1,6 +1,6 @@
 # Papers with Prompts
 
-Welcome to the `paperswithprompts.com` repository! This website is a dedicated platform for prompt engineers and researchersto discover and share machine learning papers containing prompts.
+Welcome to the `paperswithprompts.com` repository! This website is a dedicated platform for prompt engineers and researchers to discover and share machine learning papers containing prompts.
 
 ## How to Add a Paper
 
