@@ -1,8 +1,9 @@
-import Image from 'next/image'
+import Table from './Table'
 
 export default function Home() {
   return (
     <main className="flex min-h-screen min-w-screen">
+      <Table />
     </main>
   )
 }
