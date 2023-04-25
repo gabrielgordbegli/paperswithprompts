@@ -10,6 +10,11 @@ export const papers = [
         link: 'https://arxiv.org/abs/2303.12712'
     },
     {
+        submitted: '21 Feb 2023',
+        title: 'A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT',
+        link: 'https://arxiv.org/abs/2302.11382'
+    },
+    {
         submitted: '10 Jan 2023',
         title: 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models',
         link: 'https://arxiv.org/abs/2201.11903'
