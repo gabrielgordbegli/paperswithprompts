@@ -30,7 +30,7 @@ Once your pull request has been reviewed and approved (it must contain / be rela
 
 Thank you for your interest and contributions! We're excited to see the platform grow and evolve with the help of the community.
 
-## Subdomain's
+## Subdomains
 
 The repositories for our subdomains are located @
 - https://github.com/gabrielgordbegli/prompts.paperswithprompts.com
