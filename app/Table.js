@@ -1,6 +1,7 @@
 import Link from 'next/link'
+import Button from './Button'
 
-export default function Example({papers}) {
+export default function Example({ papers }) {
 
     return (
         <div className="mx-auto w-fit h-fit ">
