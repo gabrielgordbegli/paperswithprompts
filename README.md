@@ -29,3 +29,9 @@ Example of how to add a new paper entry:
 Once your pull request has been reviewed and approved (it must contain / be related to prompting), your contribution will be merged into the main repository and the paper will appear on the `paperswithprompts.com` website.
 
 Thank you for your interest and contributions! We're excited to see the platform grow and evolve with the help of the community.
+
+## Subdomain's
+
+The repositories for our subdomains are located @
+- forge.paperswithprompts.com
+- prompts.paperswithprompts
