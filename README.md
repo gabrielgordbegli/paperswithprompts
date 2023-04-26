@@ -33,5 +33,5 @@ Thank you for your interest and contributions! We're excited to see the platform
 ## Subdomain's
 
 The repositories for our subdomains are located @
-- forge.paperswithprompts.com
-- prompts.paperswithprompts
+- https://github.com/gabrielgordbegli/prompts.paperswithprompts.com
+- https://github.com/gabrielgordbegli/forge.paperswithprompts.com
